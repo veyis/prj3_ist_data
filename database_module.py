@@ -3,6 +3,8 @@ import pandas as pd
 import psycopg2
 
 
+
+
 DB_PARAMS = {
     'dbname': 'stock_app',
     'user': 'postgres',
